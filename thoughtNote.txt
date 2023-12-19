@@ -1,0 +1,24 @@
+1) Home page
+    - it contain 3 buttons with background color and hover effect as linear gradient 
+    - took image from https://unsplash.com/ and give height and width
+    - applied different font-family on buttons as before hover and during   
+    - buttons added link to each page respectively
+    - My Food Diary is the name of this restaurant.
+
+2) Menu page
+    - Used Grid to arrange images and buttons together
+    - used different fonts for heading and food names
+    - used two containers to create same gap as shown in Sample page of Menu
+    - used hover affect for buttons
+    - also added Dinner category
+
+3) Contact page
+    - used background-color
+    - to center the div,form i used width:50%; margin-left:25%; 
+    - used font-family and font-size
+
+4) About Us page
+    - divided the body into 2 parts with different widths using <div></div>
+    - used background and linear Gradient to make background colorful.
+    - used google font 
+    - used images
