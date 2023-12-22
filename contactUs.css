@@ -1,0 +1,32 @@
+body{
+    background-color:peru;
+}
+/* to center the div,form i used width:50%; margin-left:25%;
+    and also font-family and font-size */
+div{
+    margin-top: 8%;
+    width: 50%;
+    margin-left: 25%;
+    
+}
+.contitle{
+    font-family:serif;
+    margin-left: 26%;
+    margin-bottom: 40px;
+}
+ form{
+    width: 50%;
+    margin-left: 25%;
+    
+}
+input,textarea,button{
+    width: 100%;
+    size: 100px;
+    font-size: large;
+    font-family: serif;
+    
+} 
+button{
+    font-weight: bold;
+}
+

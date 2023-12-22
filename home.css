@@ -1,0 +1,53 @@
+body{
+    background: linear-gradient(180deg, #d2b48c, #ff0000, #008080);
+}
+h1{
+    display: inline;
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+/* used 2 div to arrange image and anchor tags. Linear gradient as body background.
+    used width and margin-left properties to position div in center */
+.container{
+    display: inline-block;
+    /* border: 2px solid #fff; */
+    width: 80%;
+    height: 578px;
+    margin-left: 10%;
+}
+img{
+    border: 2px solid #fff;
+    height: 80%;
+    width: 90%;
+    /* margin-top: 3.5%; */
+    margin-left: 5%;
+    align-items: center;
+}
+.btns{
+    border: none;
+    width: 50%;
+    height: fit-content;
+    margin-left: 25%;
+}
+/* Used another div for buttons arrangement. linear gradient as button background 
+    and also as hover effect */
+a{
+    background: linear-gradient(180deg, #d2b48c, #ff0000, #008080);
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 15px 15px 0 0;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+a:hover{
+    background: linear-gradient(180deg, #008080, #d2b48c, #ff0000);
+    font-family: Arial, Helvetica, sans-serif;
+}
